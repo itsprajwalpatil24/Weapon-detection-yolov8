@@ -1,0 +1,10 @@
+__pycache__/
+*.pt
+*.log
+*.jpg
+*.png
+detections/
+runs/
+.idea/
+venv/
+.env
