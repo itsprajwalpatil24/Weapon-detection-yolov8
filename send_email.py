@@ -3,9 +3,9 @@ from email.message import EmailMessage
 import ssl
 
 def send_email_alert(subject, body, attachment_path=None):
-    sender = "itsprajwalpatil24@gmail.com"
-    app_password = "nive qscv piwc xtlv"
-    receiver = "bharatlocomotives@gmail.com"
+    sender = "sender email"
+    app_password = "app password"
+    receiver = "recievers email"
 
     msg = EmailMessage()
     msg['Subject'] = subject
