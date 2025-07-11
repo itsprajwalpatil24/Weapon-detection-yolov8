@@ -15,3 +15,8 @@ Deployment on edge devices like Raspberry Pi
 SMS/Push notifications integration
 
 🔒 Use Case: Security monitoring, restricted area surveillance, border security, home safety systems.
+
+###📦 Download the Trained Model : 
+[best.pt] from this link ( )
+
+and place it inside 
