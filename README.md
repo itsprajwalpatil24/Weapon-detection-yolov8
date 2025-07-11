@@ -17,6 +17,6 @@ SMS/Push notifications integration
 🔒 Use Case: Security monitoring, restricted area surveillance, border security, home safety systems.
 
 ###📦 Download the Trained Model : 
-[best.pt] from this link ( )
+[best.pt] from this link ( https://drive.google.com/file/d/1okvdIzTY2jUBECX9L-C7ZKMqIJkVud_t/view?usp=sharing )
 
 and place it inside 
