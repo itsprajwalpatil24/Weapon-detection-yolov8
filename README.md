@@ -22,10 +22,10 @@ and place it inside.
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-app.py : streamlit based dashboard for Weapon Detection by uploading the image 
-dashboard.py :  streamlit based log viewer with detected images(from Real time Webcam) with their timestamps
-webcam_detect.py : for detecting weapons using the webcam (Custom Trained YoloV8 Model)
-train.py : for training the model 
-send_email : for sending email when webcam detects a weapon 
+🔸app.py : streamlit based dashboard for Weapon Detection by uploading the image 
+🔸dashboard.py :  streamlit based log viewer with detected images(from Real time Webcam) with their timestamps
+🔸webcam_detect.py : for detecting weapons using the webcam (Custom Trained YoloV8 Model)
+🔸train.py : for training the model 
+🔸send_email : for sending email when webcam detects a weapon 
 
 
